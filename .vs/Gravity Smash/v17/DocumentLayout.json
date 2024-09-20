@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gameuser\\Desktop\\UnityProjs\\Gravity Smash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7339B7-F239-6D1F-985A-62BB954191FC}|Assembly-CSharp.csproj|C:\\Users\\gameuser\\Desktop\\UnityProjs\\Gravity Smash\\assets\\scripts\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7339B7-F239-6D1F-985A-62BB954191FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7339B7-F239-6D1F-985A-62BB954191FC}|Assembly-CSharp.csproj|c:\\users\\gameuser\\desktop\\unityprojs\\gravity smash\\assets\\scripts\\spawncollectibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7339B7-F239-6D1F-985A-62BB954191FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawncollectibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7339B7-F239-6D1F-985A-62BB954191FC}|Assembly-CSharp.csproj|c:\\users\\gameuser\\desktop\\unityprojs\\gravity smash\\assets\\scripts\\asteroidsizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7339B7-F239-6D1F-985A-62BB954191FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\asteroidsizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7339B7-F239-6D1F-985A-62BB954191FC}|Assembly-CSharp.csproj|C:\\Users\\gameuser\\Desktop\\UnityProjs\\Gravity Smash\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7339B7-F239-6D1F-985A-62BB954191FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawnCollectibles.cs",
+              "DocumentMoniker": "C:\\Users\\gameuser\\Desktop\\UnityProjs\\Gravity Smash\\Assets\\Scripts\\SpawnCollectibles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnCollectibles.cs",
+              "ToolTip": "C:\\Users\\gameuser\\Desktop\\UnityProjs\\Gravity Smash\\Assets\\Scripts\\SpawnCollectibles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnCollectibles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:28:30.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsteroidSizer.cs",
+              "DocumentMoniker": "C:\\Users\\gameuser\\Desktop\\UnityProjs\\Gravity Smash\\Assets\\Scripts\\AsteroidSizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AsteroidSizer.cs",
+              "ToolTip": "C:\\Users\\gameuser\\Desktop\\UnityProjs\\Gravity Smash\\Assets\\Scripts\\AsteroidSizer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AsteroidSizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:22:42.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\gameuser\\Desktop\\UnityProjs\\Gravity Smash\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\gameuser\\Desktop\\UnityProjs\\Gravity Smash\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:17:36.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovementController.cs",
+              "DocumentMoniker": "C:\\Users\\gameuser\\Desktop\\UnityProjs\\Gravity Smash\\Assets\\Scripts\\MovementController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementController.cs",
+              "ToolTip": "C:\\Users\\gameuser\\Desktop\\UnityProjs\\Gravity Smash\\Assets\\Scripts\\MovementController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:34:26.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
